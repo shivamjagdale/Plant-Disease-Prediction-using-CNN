@@ -12,4 +12,4 @@ Dataset link :- https://www.kaggle.com/datasets/abdallahalidev/plantvillage-data
 
 After completion your website should look like this :- 
 ![Alt text](Images/final.png)
-![Alt text](Images/final2.png)
+![Alt text](Images/final_2.png)
