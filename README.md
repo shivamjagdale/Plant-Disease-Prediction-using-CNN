@@ -8,7 +8,7 @@ If you want to replicate this model on your local machine please do not rename a
 
 Here in the trained_model inside app folder you will upload the h5 model that you will save from your notebook once you are done building your model in google colab. 
 Right now cant upload the model cause the file is huge (250mb)
-Dataset link :- https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+Dataset link :- https: //www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 Our model predicts what disease the plants have correctly 95% of the time which is good. Below you can see how you can upload an image and our model makes prediction. 
 
