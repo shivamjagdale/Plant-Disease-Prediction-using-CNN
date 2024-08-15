@@ -12,6 +12,8 @@ Dataset link :- https://www.kaggle.com/datasets/abdallahalidev/plantvillage-data
 
 Our model predicts what disease the plants have correctly 95% of the time which is good. Below you can see how you can upload an image and our model makes prediction. 
 
+To run the program in pycharm go to it's Terminal and run using this :- streamlit run app/main.py
+
 After completion your website should look like this :- 
 ![Alt text](Images/final.png)
 ![Alt text](Images/final_2.png)
