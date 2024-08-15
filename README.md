@@ -10,6 +10,8 @@ Here in the trained_model inside app folder you will upload the h5 model that yo
 Right now cant upload the model cause the file is huge (250mb)
 Dataset link :- https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
+Our model predicts what disease the plants have correctly 95% of the time which is good. Below you can see how you can upload an image and our model makes prediction. 
+
 After completion your website should look like this :- 
 ![Alt text](Images/final.png)
 ![Alt text](Images/final_2.png)
